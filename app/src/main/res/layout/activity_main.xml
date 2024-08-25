@@ -48,7 +48,6 @@
         android:textSize="14sp"
         android:textStyle="bold" />
 
-
     <androidx.appcompat.widget.AppCompatButton
         android:layout_width="300dp"
         android:layout_height="wrap_content"
